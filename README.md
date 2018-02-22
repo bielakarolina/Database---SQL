@@ -1,2 +1,3 @@
 # Database---SQL
-Simple commands in SQL and implementation of the database system - Conference management system 
+## - Simple commands in SQL and 
+## - Conference management system - implementation of the database system  
